@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "275172499081",
+    "project_id": "unityworkshop-project",
+    "storage_bucket": "unityworkshop-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275172499081:android:4cf94750afb872ee62f058",
+        "android_client_info": {
+          "package_name": "com.example.training_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_xhz-hqLJ_q9oqa5X8v4qsU6pWOdgJ6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
